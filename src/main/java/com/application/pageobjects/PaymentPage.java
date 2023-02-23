@@ -4,9 +4,9 @@
 package com.application.pageobjects;
 
 /**
- * @author shankar
+ * @author shank
  *
  */
-public class LoginPage {
+public class PaymentPage {
 
 }
